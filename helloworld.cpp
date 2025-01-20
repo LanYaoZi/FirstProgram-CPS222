@@ -36,7 +36,7 @@ int main(){
         cout<<"wrong and guess again plz"<<endl;
         cin>>guessnum;
     }
-    cout<<"victory!!"<<endl;
+    cout<<"victory!!!!"<<endl;
 
     return 0;
 }
